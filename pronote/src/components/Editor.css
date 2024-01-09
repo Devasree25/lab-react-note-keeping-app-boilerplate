@@ -1,0 +1,32 @@
+body{
+    background-color: rgb(65, 65, 239);
+}
+.input-text{
+    border: 2px solid black;
+    height: 500PX;
+   width: 500PX;
+   position: relative;
+   right: 400px;
+   
+
+}
+.output-text{
+   border: 2px solid black;
+   height: 500PX;
+   width: 500PX;
+   position: relative;
+   left: 400px;
+   bottom: 580px;
+
+}
+.text{
+    position: relative;
+    right: 620px;
+
+}
+.text2{
+    position: relative;
+    left: 200px;
+    bottom: 580px;
+
+}
